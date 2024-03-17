@@ -1,9 +1,19 @@
 <mjml>
-    <mj-body>
+<mj-head>
+    <mj-attributes>
+        <mj-class name="D-section" background-color="#ffffff" padding="0"/>
+
+        
+    </mj-attributes>
+    <mj-title>Ecosup Commerce Premier arrivé Premier servi</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="480px" />
+</mj-head>
+    <mj-body background-color="#fefefe">
 <!--Image-->
     <mj-section>
         <mj-column>
-            <mj-image src="" alt="" />
+            <mj-image width="600px" src="img/EcosupCommerce_1-032024.jpg" alt="" />
         </mj-column>
     </mj-section>
 <!--Texte-->
@@ -52,7 +62,7 @@
 <!--signature établissement-->
 <mj-section>
     <mj-column>
-    <mj-image src="" alt="" />
+    <mj-image width="200px"src="img/ECOSUP_CAMPUS_012024.png" alt="" />
     <mj-text>
         17 place Charles et Albert Roussel
     </mj-text>
