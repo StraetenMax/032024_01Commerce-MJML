@@ -67,5 +67,19 @@
         </mj-text>
     </mj-column>
 </mj-section>
+<!--Textes réglementaires-->
+<mj-section>
+    <mj-column>
+        <mj-text>
+            Pour être sûr(e) de recevoir nos communications, ajoute contact@ecosup-campus.fr à ton carnet d'adresses.
+        </mj-text>
+        <mj-text>
+            Si tu ne visualise pas cet émail correctement, clique ici.
+        </mj-text>
+        <mj-text>
+            Pour te désinscrire de nos communications par courriel, clique ici.
+        </mj-text>
+    </mj-column>
+</mj-section>
     </mj-body>
 </mjml>
