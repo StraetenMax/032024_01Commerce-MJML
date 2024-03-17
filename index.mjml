@@ -1,0 +1,71 @@
+<mjml>
+    <mj-body>
+<!--Image-->
+    <mj-section>
+        <mj-column>
+            <mj-image src="" alt="" />
+        </mj-column>
+    </mj-section>
+<!--Texte-->
+    <mj-section>
+        <mj-column>
+            <mj-text>
+                Connais-tu l'adage
+            </mj-text>
+            <mj-text>
+                Premier arrivé Premier servi ?
+            </mj-text>
+            <mj-text>
+                {{PRENOM}}, tu as montré ton intérêt pour notre BTS MCO en alternance. Ta candidature a retenu toute notre attention. Aussi rencontrons-nous pour un entretien de motivation et choisir au plus vite l'entreprise où tu feras ton alternance ! 
+            </mj-text>
+        </mj-column>
+    </mj-section>
+<!--Boutons-->
+<mj-section>
+    <mj-group>
+        <mj-column>
+        <mj-button>
+            contacte-moi
+        </mj-button>      
+        </mj-column>
+        <mj-column>
+           <mj-button>
+            inscris-toi
+           </mj-button> 
+        </mj-column>
+    </mj-group>
+</mj-section>
+<!--Signature-->
+<mj-section>
+    <mj-column>
+        <mj-text>
+            Marie Laurence Wallaert
+        </mj-text>
+        <mj-text>
+            Résponsable pédagogique
+        </mj-text>
+        <mj-text>
+            Ecosup Commerce
+        </mj-text>
+    </mj-column>   
+</mj-section>
+<!--signature établissement-->
+<mj-section>
+    <mj-column>
+    <mj-image src="" alt="" />
+    <mj-text>
+        17 place Charles et Albert Roussel
+    </mj-text>
+    <mj-text>
+        59200 tourcoing
+    </mj-text>
+        <mj-text>
+            Tél. 03.20.70.06.06
+        </mj-text>
+        <mj-text>
+            contact@ecosup-campus.fr
+        </mj-text>
+    </mj-column>
+</mj-section>
+    </mj-body>
+</mjml>
